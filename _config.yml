@@ -1,6 +1,6 @@
 logo: # add logo name
 title: SymphonyNo9 - hukai's blog
-description: 胡凯的blog
+description: "胡凯的blog"
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "SymphonyNo9.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -12,8 +12,8 @@ banner-desc: # add banner description
 
 # Author settings
 author-pic: face.jpg # your photo
-author-name: # your name
-about-author: # about author
+author-name: Hu Kai # your name
+about-author: 还没想好 # about author
 email: hukaish7@gmail.com # your email
 phone:  # your pnone number
 website: https://SymphonyNo9.github.io # you website
